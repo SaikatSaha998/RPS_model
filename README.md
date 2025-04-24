@@ -19,7 +19,7 @@ This repository contains code for a deep learning project where a Convolutional 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/swarat17/Project_RPS.git
+   git clone https://github.com/SaikatSaha998/RPS_model.git
    cd Project_RPS-master
    ```
 
